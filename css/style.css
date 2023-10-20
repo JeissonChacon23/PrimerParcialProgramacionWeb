@@ -9,6 +9,9 @@
 .text2{
 
 }
+.text3{
+    text-align: right;
+}
 .footer2{
     display: flex;
     justify-content: space-around;
@@ -32,3 +35,4 @@ h4{
     border-radius: 10px;
     border-color: black;
 }
+
