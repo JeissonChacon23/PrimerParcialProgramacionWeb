@@ -3,6 +3,12 @@
     size: 2.5em;
 
 }
+text1{
+    size: 1.5em;
+}
 img, h1{
     display: inline-block;
+}
+ul{
+    list-style: none;
 }
