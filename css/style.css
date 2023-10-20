@@ -3,8 +3,11 @@
     size: 2.5em;
 
 }
-text1{
+.text1{
     size: 1.5em;
+}
+.text2{
+    
 }
 img, h1{
     display: inline-block;
@@ -14,20 +17,3 @@ ul{
 }
 
 
-
-
-
-
-#columna1 {
-    position:absolute;
-    top:0px;
-    left:0px;
-    width:200px;
-    background-color:#ffff55;
-}
-#columna2 {
-        margin-left:220px;
-        margin-right:20px;
-        margin-top:10px;
-        background-color:#ffffbb;
-}
