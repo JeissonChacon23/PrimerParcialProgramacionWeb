@@ -1,0 +1,8 @@
+.texto{
+    align-items: center;
+    size: 2.5em;
+
+}
+img, h1{
+    display: inline-block;
+}
